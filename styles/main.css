@@ -1,5 +1,29 @@
 /* Mobile first - default styles */
 
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+.yellow{
+	background: #F1E05A;
+  	padding: 20px;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+	padding-left: 35px;
+}
 
 /*Small devices (tablets, 768px and up)*/
 /*@media (min-width: 768px) {
