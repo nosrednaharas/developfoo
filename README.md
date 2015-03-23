@@ -6,7 +6,7 @@ We are a group of GA Alumni who develop all things JavaScript.  We are working t
 
 Very cool space for very cool people.
 
-For more information about the Guild, please <a href=mailto:"bphaaland@gmail.com">EMAIL US!</a>
+For more information about the Guild, please <a href="mailto:bphaaland@gmail.com">EMAIL US!</a>
 
 Contributors:
 
